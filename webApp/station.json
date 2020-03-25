@@ -1,0 +1,71 @@
+{
+  "Station": {
+    "inventory": {
+      "creator": "INGV"
+    },
+    "network": {
+      "code": "UM",
+      "description": "TEST",
+      "start_date" : "2020,2,1,0,0,0.00"
+    },
+    "station": {
+      "name": "TEST",
+      "latitude": -38.22918,
+      "longitude": 147.274075,
+      "elevation": 26,
+      "creation_date": "2020,2,1,0,0,0.00",
+      "site_name": "Naples"
+    },
+    "channels": [
+      {"channel": "1",
+        "code": "HHZ",
+        "location_code": " ",
+        "latitude": -38.22918,
+        "longitude": 147.274075,
+        "elevation": 26,
+        "depth": 0,
+        "azimuth": 90,
+        "dip": 0,
+        "sample_rate": 250,
+        "sensor": {
+          "param_1": "Nanometrics",
+          "param_2": "Trillium Compact 20 (Vault, Posthole, OBS)",
+          "param_3": "753 V/m/s",
+          "param_4": null
+          },
+        "datalogger": {
+          "param_1": "REF TEK",
+          "param_2": "RT 130 & 130-SMA",
+          "param_3": "1",
+          "param_4": "200"
+          }
+        },
+      {"channel":"2",
+        "code": "HHZ",
+        "location_code": "",
+        "latitude": -38.22918,
+        "longitude": 147.274075,
+        "elevation": 26,
+        "depth": 0,
+        "azimuth": 90,
+        "dip": 0,
+        "sample_rate": 250,
+        "sensor": {
+          "param_1": "Nanometrics",
+          "param_2": "Trillium Compact 20 (Vault, Posthole, OBS)",
+          "param_3": "753 V/m/s",
+          "param_4": null
+          },
+        "datalogger": {
+          "param_1": "REF TEK",
+          "param_2": "RT 130 & 130-SMA",
+          "param_3": "1",
+          "param_4": "200"
+          }
+        }
+    ]
+  }
+
+
+
+}

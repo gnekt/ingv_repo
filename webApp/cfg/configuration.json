@@ -1,0 +1,37 @@
+{
+  "application": {
+    "info": {
+      "name": "applicazione_bellissima(forse)",
+      "dev": "Christian Di Maio",
+      "tutor": {
+        "1": "Francesca Cirillo",
+        "2": "Rosario Peluso"
+      },
+      "final_users": {
+        "1": "Massimo Orazi",
+        "2": "Antonella Bobbio",
+        "3": "Morpheus"
+      },
+      "version": "0.0.1",
+      "full_path": "C:\\Users\\dima9\\OneDrive - studenti.unisa.it\\Desktop\\TIROCINIO\\webApp"
+    },
+    "module_configuration": {
+      "NRLWrap": {
+        "url_iris": "http://ds.iris.edu/NRL/IRIS.zip",
+        "root": "res\\response",
+        "custom_folder": {
+          "sensors": "res\\response\\custom\\sensors\\",
+          "dataloggers": "res\\response\\custom\\dataloggers\\"
+        },
+        "sensors_folder": "res\\response\\sensors\\",
+        "dataloggers_folder": "res\\response\\dataloggers\\",
+        "iris_zip_download": "res\\response\\temp_iris.zip"
+      }
+    }
+  }
+
+
+
+
+
+}
